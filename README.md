@@ -6,8 +6,8 @@ My name is Weldon and I'm a 4th year student in Software Engineering + Combinato
 Here is a non-exhaustive list of some of the projects I'm most proud of:
 
 __Poppy__ 🐇
-- a toy programming language, soon to be a not-so-toy programming language
-- developed compiler from scratch with goal of bootstrapping
+- a low-level programming language created by yours truly
+- developed a compiler written in C from scratch and am beginning to bootstrap the language
 - find it right here on GitHub
 
 __Multiset__ 💸
